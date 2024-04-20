@@ -16,5 +16,8 @@ Features:
 6. **Responsive Design**: The website design is responsive, ensuring optimal viewing and interaction across various devices and screen sizes.
 
 7. **Figma File Availability**: The Figma file for the project is accessible via [this link](https://www.figma.com/community/file/1358476842884609050/furniture-website-cozycouchhub), allowing developers and designers to explore and collaborate on the design.
+  
+8. **Screenshot of the Project** : ![image](https://github.com/Jais0603/CozyCouchHub/assets/98961661/2a9ced5b-fa15-417a-8ddc-c2297b373230)
+
 
 Overall, CozyCouchHub aims to redefine the online furniture shopping experience by combining elegant design, user-friendly features, and valuable content to create a cohesive and inspiring platform for furniture enthusiasts.
